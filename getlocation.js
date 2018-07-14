@@ -1,5 +1,5 @@
 const request = require('request');
-const maps_api_key='AIzaSyB_fyipskkTJPpqmBD-lZEcAA44tFNXJy8';
+const maps_api_key='api key from google maps geo location API';
 // const weather=require('./getweather');
 
 module.exports=
