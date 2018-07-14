@@ -1,4 +1,4 @@
-const darksky_api_key='c1f1b34575c5336fd83f4273dd9d7831';
+const darksky_api_key='api key from dark sky api from forecast.io';
 const request = require('request');
 let obj
 
